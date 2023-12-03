@@ -21,6 +21,9 @@ async def start(_, msg):
     
     await msg.reply_photo(
         photo="https://telegra.ph/file/70402820cd4afd8ea4c13.jpg",
-        caption=start_txt,
-        reply_markup=reply_markup
+        caption=ʙᴇᴛᴀ ʀᴇᴘᴏ ᴄʜᴀʜɪʏᴇ? 🗿 
+...ᴀᴘɴɪ ᴍᴜᴍᴍʏ ᴋᴏ ʙʜᴇᴊᴅᴇ 10ᴍ ʙsss  ᴍᴀᴅᴀʀᴄʜᴏᴅ
+
+ᴛᴇʀᴇ ʙᴀᴀᴘ sᴇ ʀᴇᴘᴏ ʟᴇʟᴇ ᴊᴀᴀᴋᴇ [ᴛᴇʀᴀ ʙᴀᴀᴘ ](https://t.me/HereShiva),
+        
     )
